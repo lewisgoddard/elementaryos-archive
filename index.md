@@ -3,8 +3,8 @@
 
 {% assign sortedreleases = site.data.releases | sort: 'major' | reverse %}
 {% for release in sortedreleases %}
-{% capture releasedate %}{{release.released | date: '%s'}}{% endcapture %}
 <h3>elementary OS {{ release.major }} {{ release.name }}</h3>
+<p>First released {{ release.released }}, based on {{ release.base }}.</p>
 
 {% if release.files %}
 {% assign sortedfiles = release.files | sort: 'released' | reverse %}
