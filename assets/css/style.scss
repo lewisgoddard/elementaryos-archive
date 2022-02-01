@@ -6,6 +6,16 @@
 #skip-to-content { display: none; }
 #skip-to-content:focus { display: inline-block; }
 
+a {
+  color: #08c;
+  text-decoration: none;
+}
+a:focus,
+a:hover {
+  font-weight: inherit;
+  text-decoration: underline;
+}
+
 h3,
 h4 {
   margin-bottom: 0;
