@@ -2,12 +2,22 @@
   name: "Jupiter"
   released: 2011-03-31
   major: 0.1
-  minor: 
   base: "Ubuntu 10.10"
 
 - luna:
   name: "Luna"
   released: 2013-08-10
   major: 0.2
-  minor: 
   base: "Ubuntu 12.04 LTS"
+
+- freya:
+  name: "Freya"
+  released: 2015-04-11
+  major: 0.3
+  base: "Ubuntu 14.04 LTS"
+
+- loki:
+  name: "Loki"
+  released: 2016-09-09
+  major: 0.4
+  base: "Ubuntu 16.04 LTS"
