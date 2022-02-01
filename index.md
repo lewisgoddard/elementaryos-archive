@@ -11,7 +11,7 @@
 {% for file in sortedfiles %}
 {% capture filedate %}{{file.released | date: '%s'}}{% endcapture %}
 <h4>{{ file.filename }}</h4>
-<p><small>{{ file.url }} - {{ filedate }}</small></p>
+<small>{{ file.arch }} - {{ filedate }}</small>
 <p><a href="{{ file.url }}">Download on archive.org</a></p>
 {% endfor %}
 {% endif %}
