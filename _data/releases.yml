@@ -6,13 +6,15 @@
   files:
   - 
     filename: "elementaryos0.1-jupiter-i386.iso"
-    arch: "i386"
     released: 2011-03-31
+    arch: "i386"
+    size: "614 MB"
     url: "https://archive.org/details/elementaryos0.1-jupiter-i386.iso"
   -
     filename: "elementaryos0.1-jupiter-amd64.iso"
-    arch: "amd64"
     released: 2011-03-31
+    arch: "amd64"
+    size: "611 MB"
     url: "https://archive.org/details/elementaryos0.1-jupiter-amd64.iso"
 
 - luna:
@@ -23,13 +25,15 @@
   files:
   - 
     filename: "elementaryos-stable-i386.20130810.iso"
-    arch: "i386"
     released: 2013-08-10
+    arch: "i386"
+    size: "662 MB"
     url: "https://archive.org/details/elementaryos-stable-i386.20130810.iso"
   -
     filename: "elementaryos-stable-amd64.20130810.iso"
-    arch: "amd64"
     released: 2013-08-10
+    arch: "amd64"
+    size: "694 MB"
     url: "https://archive.org/details/elementaryos-stable-amd64.20130810.iso"
 
 - freya:
