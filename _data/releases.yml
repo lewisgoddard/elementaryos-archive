@@ -3,6 +3,13 @@
   released: 2011-03-31
   major: 0.1
   base: "Ubuntu 10.10"
+  files:
+  - "elementaryos0.1-jupiter-i386.iso":
+    arch: i386
+    released: 2011-03-31
+  - "elementaryos0.1-jupiter-amd64.iso":
+    arch: amd64
+    released: 2011-03-31
 
 - luna:
   name: "Luna"
