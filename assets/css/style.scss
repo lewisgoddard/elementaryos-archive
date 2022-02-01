@@ -3,6 +3,9 @@
 
 @import "jekyll-theme-minimal";
 
+#skip-to-content { display: none; }
+#skip-to-content:focus { display: inline-block; }
+
 h3,
 h4 {
   margin-bottom: 0;
