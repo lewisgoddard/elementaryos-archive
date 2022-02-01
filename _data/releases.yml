@@ -21,3 +21,27 @@
   released: 2016-09-09
   major: 0.4
   base: "Ubuntu 16.04 LTS"
+
+- juno:
+  name: "Juno"
+  released: 2018-10-16
+  major: 5.0
+  base: "Ubuntu 18.04 LTS"
+
+- hera:
+  name: "Hera"
+  released: 2019-12-03
+  major: 5.1
+  base: "Ubuntu 18.04 LTS"
+
+- odin:
+  name: "Odin"
+  released: 2021-08-10
+  major: 6.0
+  base: "Ubuntu 20.04 LTS"
+
+- jolnir:
+  name: "Jólnir"
+  released: 2021-12-20
+  major: 6.1
+  base: "Ubuntu 20.04 LTS"
