@@ -1,7 +1,13 @@
-- precise:
-  name: Precise Pangolin
-  released: 2012-04-26
-  version: '12.04'
-  kernel: 3.2
-  is-lts: true
-  eol: 2017-04-28
+- jupiter:
+  name: "Jupiter"
+  released: 2011-03-31
+  major: 0.1
+  minor: 
+  base: "Ubuntu 10.10"
+
+- luna:
+  name: "Luna"
+  released: 2013-08-10
+  major: 0.2
+  minor: 
+  base: "Ubuntu 12.04 LTS"
