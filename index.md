@@ -10,8 +10,7 @@
 {% assign sortedfiles = release.files | sort: 'released' | reverse %}
 {% for file in sortedfiles %}
 <h4>{{ file.filename }}</h4>
-<small>{{ file.arch }} - {{ file.released }}</small>
-<p><a href="{{ file.url }}">Download on archive.org</a></p>
+<p>{{ file.released }} - {{ file.arch }} - {{ file.size }} - <a href="{{ file.url }}">Download on archive.org</a></p>
 {% endfor %}
 {% endif %}
 
