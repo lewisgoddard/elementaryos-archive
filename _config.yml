@@ -1,1 +1,10 @@
+title: elementary OS Archive
+description: Historical releases of elementary OS
+url: "https://lewisgoddard.github.io" # the base hostname & protocol for your site
+
+permalink: /:title/
+page_excerpts: true
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
 theme: jekyll-theme-minimal
