@@ -1,0 +1,7 @@
+- precise:
+  name: Precise Pangolin
+  released: 2012-04-26
+  version: '12.04'
+  kernel: 3.2
+  is-lts: true
+  eol: 2017-04-28
