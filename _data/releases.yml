@@ -54,6 +54,18 @@
     arch: "amd64"
     size: "852 MB"
     url: "https://archive.org/details/elementaryos-freya-amd64.20150411.iso"
+  - 
+    filename: "elementaryos-stable-0.3.1-i386.20150903.iso"
+    released: 2015-09-03
+    arch: "i386"
+    size: "846 MB"
+    url: "https://archive.org/details/elementaryos-stable-0.3.1-i386.20150903.iso"
+  -
+    filename: "elementaryos-stable-0.3.1-amd64.20150903.iso"
+    released: 2015-09-03
+    arch: "amd64"
+    size: "867 MB"
+    url: "https://archive.org/details/elementaryos-stable-0.3.1-amd64.20150903.iso"
 
 - loki:
   name: "Loki"
