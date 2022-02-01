@@ -41,6 +41,19 @@
   released: 2015-04-11
   major: 0.3
   base: "Ubuntu 14.04 LTS"
+  files:
+  - 
+    filename: "elementaryos-freya-i386.20150411.iso"
+    released: 2015-04-11
+    arch: "i386"
+    size: "832 MB"
+    url: "https://archive.org/details/elementaryos-freya-i386.20150411.iso"
+  -
+    filename: "elementaryos-freya-amd64.20150411.iso"
+    released: 2015-04-11
+    arch: "amd64"
+    size: "852 MB"
+    url: "https://archive.org/details/elementaryos-freya-amd64.20150411.iso"
 
 - loki:
   name: "Loki"
