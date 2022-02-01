@@ -20,6 +20,17 @@
   released: 2013-08-10
   major: 0.2
   base: "Ubuntu 12.04 LTS"
+  files:
+  - 
+    filename: "elementaryos-stable-i386.20130810.iso"
+    arch: "i386"
+    released: 2013-08-10
+    url: "https://archive.org/details/elementaryos-stable-i386.20130810.iso"
+  -
+    filename: "elementaryos-stable-amd64.20130810.iso"
+    arch: "amd64"
+    released: 2013-08-10
+    url: "https://archive.org/details/elementaryos-stable-amd64.20130810.iso"
 
 - freya:
   name: "Freya"
