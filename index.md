@@ -7,7 +7,7 @@
 <p>First released {{ release.released }}, based on {{ release.base }}.</p>
 
 {% if forloop.index == 1 %}
-<p><a href="https://elementary.io/">Download on elementary.io</a></p>
+<p><a href="https://elementary.io/">Download @ elementary.io</a></p>
 {% elsif release.files %}
 {% assign sortedfiles = release.files | sort: 'released' | reverse %}
 {% for file in sortedfiles %}
