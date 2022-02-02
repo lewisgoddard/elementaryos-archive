@@ -6,7 +6,9 @@
 <h2>elementary OS {{ release.major }} {{ release.name }}</h2>
 <p>First released {{ release.released }}, based on {{ release.base }}.</p>
 
-{% if release.files %}
+{% if forloop.index == 1 %}
+<p><a href="https://elementary.io/">Download on elementary.io</a></p>
+{% elsif release.files %}
 {% assign sortedfiles = release.files | sort: 'released' | reverse %}
 {% for file in sortedfiles %}
 <h3>{{ file.filename }}</h3>
