@@ -127,6 +127,13 @@
   released: 2018-10-16
   major: 5.0
   base: "Ubuntu 18.04 LTS"
+  files:
+  -
+    filename: "elementaryos-5.0-stable.20181016.iso"
+    released: 2018-10-16
+    arch: "amd64"
+    size: "1.4 GB"
+    url: "https://archive.org/details/elementaryos-5.0-stable.20181016.iso"
 
 - hera:
   name: "Hera"
