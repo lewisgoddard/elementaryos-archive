@@ -84,6 +84,7 @@
   released: 2016-09-09
   major: 0.4
   base: "Ubuntu 16.04 LTS"
+  files:
   -
     filename: "elementaryos-0.4-stable-amd64.20160909.iso"
     released: 2016-09-09
