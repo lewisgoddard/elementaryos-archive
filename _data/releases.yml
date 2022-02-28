@@ -189,6 +189,43 @@
   released: 2021-08-10
   major: 6.0
   base: "Ubuntu 20.04 LTS"
+  files:
+  -
+    filename: "elementaryos-6.0-stable.20210810.iso"
+    released: 2021-08-10
+    arch: "amd64"
+    size: "2.2 GB"
+    url: "https://archive.org/details/elementaryos-6.0-stable.20210810.iso"
+  -
+    filename: "elementaryos-6.0-stable.20210823.iso"
+    released: 2021-08-23
+    arch: "amd64"
+    size: "2.2 GB"
+    url: "https://archive.org/details/elementaryos-6.0-stable.20210823.iso"
+  -
+    filename: "elementaryos-6.0-stable.20210831.iso"
+    released: 2021-08-31
+    arch: "amd64"
+    size: "2.2 GB"
+    url: "https://archive.org/details/elementaryos-6.0-stable.20210831.iso"
+  -
+    filename: "elementaryos-6.0-stable.20211005.iso"
+    released: 2021-10-05
+    arch: "amd64"
+    size: "2.2 GB"
+    url: "https://archive.org/details/elementaryos-6.0-stable.20211005.iso"
+  -
+    filename: "elementaryos-6.0-stable.20211103.iso"
+    released: 2021-11-03
+    arch: "amd64"
+    size: "2.2 GB"
+    url: "https://archive.org/details/elementaryos-6.0-stable.20211103.iso"
+  -
+    filename: "elementaryos-6.0-stable.20211130.iso"
+    released: 2021-11-30
+    arch: "amd64"
+    size: "2.3 GB"
+    url: "https://archive.org/details/elementaryos-6.0-stable.20211130.iso"
 
 - jolnir:
   name: "Jólnir"
