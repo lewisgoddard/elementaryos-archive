@@ -232,3 +232,15 @@
   released: 2021-12-20
   major: 6.1
   base: "Ubuntu 20.04 LTS"
+  -
+    filename: "elementaryos-6.1-stable.20211218-rc.iso"
+    released: 2021-12-20
+    arch: "amd64"
+    size: "2.5 GB"
+    url: "https://archive.org/details/elementaryos-6.0-stable.20211218.iso"
+
+- horus:
+  name: "Horus"
+  released: 2023-01-29
+  major: 7.0
+  base: "Ubuntu 22.04 LTS"
