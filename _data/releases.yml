@@ -238,7 +238,7 @@
     released: 2021-12-20
     arch: "amd64"
     size: "2.5 GB"
-    url: "https://archive.org/details/elementaryos-6.0-stable.20211218.iso"
+    url: "https://archive.org/details/elementaryos-6.1-stable.20211218.iso"
 
 - horus:
   name: "Horus"
