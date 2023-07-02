@@ -232,6 +232,7 @@
   released: 2021-12-20
   major: 6.1
   base: "Ubuntu 20.04 LTS"
+  files:
   -
     filename: "elementaryos-6.1-stable.20211218-rc.iso"
     released: 2021-12-20
