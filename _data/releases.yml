@@ -242,6 +242,25 @@
 
 - horus:
   name: "Horus"
-  released: 2023-01-29
+  released: 2023-01-31
   major: 7.0
   base: "Ubuntu 22.04 LTS"
+  files:
+  -
+    filename: "elementaryos-7.0-stable.20230129rc.iso"
+    released: 2023-01-31
+    arch: "amd64"
+    size: "2.6 GB"
+    url: "https://archive.org/details/elementaryos-7.0-stable.20230129.iso"
+
+- horus:
+  name: "Horus"
+  released: 2023-10-03
+  major: 7.1
+  base: "Ubuntu 22.04 LTS"
+  -
+    filename: "	elementaryos-7.1-stable.20230926rc.iso"
+    released: 2023-10-03
+    arch: "amd64"
+    size: "3.0 GB"
+    url: "https://archive.org/details/	elementaryos-7.1-stable.20230926.iso"
