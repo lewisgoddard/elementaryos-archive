@@ -253,7 +253,7 @@
     size: "2.6 GB"
     url: "https://archive.org/details/elementaryos-7.0-stable.20230129.iso"
 
-- horus2:
+- k:
   name: "Horus"
   released: 2023-10-03
   major: 7.1
