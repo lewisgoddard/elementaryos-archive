@@ -21,7 +21,7 @@ h3 { margin: 1rem 0 0.5rem; }
 h2:first-child { margin-top: 0; }
 
 @media (prefers-color-scheme: dark) {
-  body {
+  html {
     filter: invert(1);
   }
 }
