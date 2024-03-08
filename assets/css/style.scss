@@ -19,3 +19,9 @@ a:hover {
 h2 { margin: 3rem 0 0.5rem; }
 h3 { margin: 1rem 0 0.5rem; }
 h2:first-child { margin-top: 0; }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    filter: invert(1);
+  }
+}
