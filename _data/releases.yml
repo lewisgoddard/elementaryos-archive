@@ -260,8 +260,34 @@
   base: "Ubuntu 22.04 LTS"
   files:
   -
-    filename: "	elementaryos-7.1-stable.20230926rc.iso"
+    filename: "elementaryos-7.1-stable.20230926rc.iso"
     released: 2023-10-03
     arch: "amd64"
     size: "3.0 GB"
     url: "https://archive.org/details/elementaryos-7.1-stable.20230926.iso"
+
+- horus2:
+  name: "Horus"
+  released: 2023-10-03
+  major: 7.1
+  base: "Ubuntu 22.04 LTS"
+  files:
+  -
+    filename: "elementaryos-7.1-stable.20230926rc.iso"
+    released: 2023-10-03
+    arch: "amd64"
+    size: "3.0 GB"
+    url: "https://archive.org/details/elementaryos-7.1-stable.20230926.iso"
+
+- circe:
+  name: "Circe"
+  released: 2024-11-26
+  major: 8.0
+  base: "Ubuntu 24.04 LTS"
+  files:
+  -
+    filename: "elementaryos-8.0-stable.20241122rc.iso"
+    released: 2023-10-03
+    arch: "amd64"
+    size: "3.0 GB"
+    url: "https://archive.org/details/elementaryos-8.0-stable.20241122.iso"
