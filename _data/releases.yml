@@ -243,7 +243,7 @@
 - horus:
   name: "Horus"
   released: 2023-01-31
-  major: 7.x
+  major: 7
   base: "Ubuntu 22.04 LTS"
   files:
   -
@@ -268,12 +268,69 @@
 - circe:
   name: "Circe"
   released: 2024-11-26
-  major: 8.0
+  major: 8
   base: "Ubuntu 24.04 LTS"
   files:
   -
     filename: "elementaryos-8.0-stable.20241122rc.iso"
-    released: 2023-10-03
+    minor: 8
+    released: 2024-11-22
     arch: "amd64"
-    size: "3.0 GB"
+    size: "3.2 GB"
     url: "https://archive.org/details/elementaryos-8.0-stable.20241122.iso"
+  -
+    filename: "elementaryos-8.0-stable.20250314rc.iso"
+    minor: 8.0.1
+    released: 2025-03-14
+    arch: "amd64"
+    size: "3.3 GB"
+    url: "https://archive.org/details/elementaryos-8.0-stable.20250314.iso"
+  -
+    filename: "elementaryos-8.0-stable-amd64.20250902rc.iso"
+    minor: 8.0.2
+    released: 2025-09-02
+    arch: "amd64"
+    size: "3.3 GB"
+    url: "https://archive.org/details/elementaryos-8.0-stable-amd64.20250902.iso"
+  -
+    filename: "elementaryos-8.1-stable-amd64.20251211.iso"
+    minor: 8.1
+    released: 2025-12-11
+    arch: "amd64"
+    size: "3.3 GB"
+    url: "https://archive.org/details/elementaryos-8.1-stable-amd64.20251211.iso"
+  -
+    filename: "elementaryos-8.1-stable-arm64.20251211.iso"
+    minor: 8.1
+    released: 2025-12-11
+    arch: "arm64"
+    size: "3.3 GB"
+    url: "https://archive.org/details/elementaryos-8.1-stable-arm64.20251211.iso"
+  -
+    filename: "elementaryos-8.1-stable-amd64.20260107.iso"
+    minor: 8.1
+    released: 2026-01-07
+    arch: "amd64"
+    size: "3.3 GB"
+    url: "https://archive.org/details/elementaryos-8.1-stable-amd64.20260107.iso"
+  -
+    filename: "elementaryos-8.1-stable-arm64.20260107.iso"
+    minor: 8.1
+    released: 2026-01-07
+    arch: "arm64"
+    size: "3.3 GB"
+    url: "https://archive.org/details/elementaryos-8.1-stable-arm64.20260107.iso"
+  -
+    filename: "elementaryos-8.1-stable-amd64.20260219.iso"
+    minor: 8.1.1
+    released: 2026-02-19
+    arch: "amd64"
+    size: "3.3 GB"
+    url: "https://archive.org/details/elementaryos-8.1-stable-amd64.20260219.iso"
+  -
+    filename: "elementaryos-8.1-stable-arm64.20260219.iso"
+    minor: 8.1.1
+    released: 2026-02-19
+    arch: "arm64"
+    size: "3.3 GB"
+    url: "https://archive.org/details/elementaryos-8.1-stable-arm64.20260219.iso"
